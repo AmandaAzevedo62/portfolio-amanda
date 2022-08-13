@@ -118,7 +118,7 @@ nav {
 #img-contact {
   width: 20rem;
   border: none;
-  border-radius: 100%;
+  border-radius: 50%;
   box-shadow: 0.125rem 0.25rem 0.725rem rgba(0, 0, 0, 0.085);
 }
 
@@ -128,9 +128,9 @@ section {
 
 footer {
   text-align: center;
-  background-image: -webkit-linear-gradient(-58deg, #ffd24b 0%, #ff904b 56%);
-  background-image: -moz-linear-gradient(-58deg, #ffd24b 0%, #ff904b 56%);
-  background-image: -ms-linear-gradient(-58deg, #ffd24b 0%, #ff904b 56%);
+  background-image: -webkit-linear-gradient(-20deg, #fff 0%, #FFC0CB 56%);
+  background-image: -moz-linear-gradient(-20deg, #fff 0%, #FFC0CB 56%);
+  background-image: -ms-linear-gradient(-20deg, #fff 0%, ##FFF0F5 56%);
 }
 
 .container-apps-contact {
