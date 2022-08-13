@@ -110,6 +110,19 @@ nav {
   box-shadow: 0.125rem 0.25rem 0.625rem rgba(0, 0, 0, 0.075);
 }
 
+.btn-dark {
+  background-color: #FFB6C1;
+  border: #FFB6C1;
+}
+
+.btn-dark:hover {
+  background-color: #6c757d;
+}
+
+.btn-dark:active {
+  background-color: #6c757d;
+}
+
 #container-img-contact {
   z-index: 1;
   margin: 10rem 0 -17.5rem 10rem;
