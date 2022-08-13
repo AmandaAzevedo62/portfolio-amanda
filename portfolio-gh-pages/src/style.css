@@ -17,7 +17,7 @@ nav {
 }
 
 .text-light {
-  color: #ff914d !important;
+  color: #FFB6C1 !important;
 }
 
 .btn-secondary {
@@ -45,6 +45,7 @@ nav {
 
 #text-home {
   margin: 6.5rem;
+  color: grey;
 }
 
 #text-name {
@@ -306,7 +307,8 @@ footer {
   }
 
   #home {
-    background-image: url(./assets/Background-mobile.jpg);
+    background-image: url(./assets/background-home\ \(2\).png);
+    height: 100%;
   }
 
   .text.about {
@@ -319,7 +321,7 @@ footer {
   }
 
   #text-name {
-    font-size: 3rem;
+    font-size: 2rem;
   }
 
   #text-description {
