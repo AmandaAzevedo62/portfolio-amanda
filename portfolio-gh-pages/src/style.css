@@ -12,18 +12,26 @@ body {
 }
 
 nav {
-  border-bottom: 0.313rem solid #494e5f;
+  border-bottom: 0.313rem solid #FFF0F5;
+  background-color: #fff;
 }
 
 .text-light {
-  color: #ff914d !important;
+  color: #FFB6C1 !important;
 }
+
+.btn-secondary {
+  color: #fff;
+  background-color:	#FFB6C1;
+  border-color: #FFC0CB;
+}
+
 
 #home {
   color: white;
   background: no-repeat;
   background-size: 100%;
-  background-image: url(./assets/mohammad-rahmani-8qEB0fTe9Vw-unsplash.jpg);
+  background-image: url(./assets/background-home\ \(2\).png);
 }
 
 .btn-animation {
@@ -37,6 +45,7 @@ nav {
 
 #text-home {
   margin: 6.5rem;
+  color: grey;
 }
 
 #text-name {
@@ -58,8 +67,12 @@ nav {
 
 
 #img-about {
-  background-color: #494e5f;
+  background-color: #FFB6C1;
   box-shadow: 0.125rem 0.25rem 0.625rem rgba(0, 0, 0, 0.075);
+}
+
+#skills {
+  margin-top: 5rem;
 }
 
 .card-img-top {
@@ -298,7 +311,8 @@ footer {
   }
 
   #home {
-    background-image: url(./assets/Background-mobile.jpg);
+    background-image: url(./assets/background-home\ \(2\).png);
+    height: 100%;
   }
 
   .text.about {
@@ -311,7 +325,7 @@ footer {
   }
 
   #text-name {
-    font-size: 3rem;
+    font-size: 2rem;
   }
 
   #text-description {
