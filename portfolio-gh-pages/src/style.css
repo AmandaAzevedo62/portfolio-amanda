@@ -67,8 +67,12 @@ nav {
 
 
 #img-about {
-  background-color: #494e5f;
+  background-color: #FFB6C1;
   box-shadow: 0.125rem 0.25rem 0.625rem rgba(0, 0, 0, 0.075);
+}
+
+#skills {
+  margin-top: 5rem;
 }
 
 .card-img-top {
