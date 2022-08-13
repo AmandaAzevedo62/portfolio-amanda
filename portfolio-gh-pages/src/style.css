@@ -12,18 +12,26 @@ body {
 }
 
 nav {
-  border-bottom: 0.313rem solid #494e5f;
+  border-bottom: 0.313rem solid #FFF0F5;
+  background-color: #fff;
 }
 
 .text-light {
   color: #ff914d !important;
 }
 
+.btn-secondary {
+  color: #fff;
+  background-color:	#FFB6C1;
+  border-color: #FFC0CB;
+}
+
+
 #home {
   color: white;
   background: no-repeat;
   background-size: 100%;
-  background-image: url(./assets/mohammad-rahmani-8qEB0fTe9Vw-unsplash.jpg);
+  background-image: url(./assets/background-home\ \(2\).png);
 }
 
 .btn-animation {
